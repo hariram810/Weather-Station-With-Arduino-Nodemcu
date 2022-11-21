@@ -2,12 +2,12 @@
 
 ![1](https://user-images.githubusercontent.com/118633170/202869345-86c7b9bf-c057-46bc-9f13-ff3e48c0f1d3.jpg)
 
-If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, [JLCPCB](https://jlcpcb.com) is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
+If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, [JLCPCB](https://jlcpcb.com/RNA) is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
 
 [JLCPCB](https://jlcpcb.com)
 
 
-Please use the following link to register an account in [JLCPCB](jlcpcb.com/RNA)
+Please use the following link to register an account in [JLCPCB](https://jlcpcb.com/RNA)
 
 https://jlcpcb.com/RNA
 
