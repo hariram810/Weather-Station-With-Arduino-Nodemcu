@@ -2,9 +2,6 @@
 
 ![1](https://user-images.githubusercontent.com/118633170/202869345-86c7b9bf-c057-46bc-9f13-ff3e48c0f1d3.jpg)
 
-
-This is a simple weather station made under 20$ to get data from the devices and display to the internet and make calculations regarding that
-
 If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, [JLCPCB](https://jlcpcb.com) is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
 
 [JLCPCB](https://jlcpcb.com)
@@ -13,7 +10,6 @@ If you have hard-time 3d printing stuff and other materials which i have provide
 Please use the following link to register an account in [JLCPCB](jlcpcb.com/RNA)
 
 https://jlcpcb.com/RNA
-
 
 
 Pcb Manufacturing
@@ -45,6 +41,7 @@ Moreover, you can pre-order parts and hold the inventory at [JLCPCB](https://jlc
 SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes [JLCPCB](https://jlcpcb.com/RNA) better companion among other manufactures try out [JLCPCB](https://jlcpcb.com/RNA) 3D Printing servies
 
 [JLCPCB](https://jlcpcb.com/RNA) 3D Printing starts at $1 &Get $54 Coupons for new users
+
 
 
 This Weather Station Uses Arduino ,Python & Nodemcu Along With Different Analog Value Sensor & Digital Value Sensors. Since Nodemcu Have Only One A0 Pin & We Need Values From Different Analog Sensors Like :-
