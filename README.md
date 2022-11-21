@@ -8,13 +8,11 @@ This is a simple weather station made under 20$ to get data from the devices and
 If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, JLCPCB is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
 
 
+
 Please use the following link to register an account in JLCPCB
 
 https://jlcpcb.com/RNA
 
-![1](https://user-images.githubusercontent.com/118633170/202869382-921514c1-dbbf-4a28-bbdd-0c1f9025de24.jpg)
-
-![2](https://user-images.githubusercontent.com/118633170/202869365-6cf6277b-8590-4943-9c2f-4b4b74a5d1ba.jpg)
 
 
 Pcb Manufacturing
@@ -27,13 +25,15 @@ Pcb Manufacturing
 
 6 layers
 
+jlcpcb.com/RNA
+
 
 
 PCBA Services
 
 JLCPCB have 350k+ Components In-stock. You don’t have to worry about parts sourcing, this helps you to save time and hassle, also keeps your costs down.
 
-Moreover, you can pre-order parts and hold the inventory at JLCPCB, giving you peace-of-mind that you won't run into any last minute part shortages.
+Moreover, you can pre-order parts and hold the inventory at JLCPCB, giving you peace-of-mind that you won't run into any last minute part shortages. jlcpcb.com/RNA
 
 
 
