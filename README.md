@@ -5,11 +5,12 @@
 
 This is a simple weather station made under 20$ to get data from the devices and display to the internet and make calculations regarding that
 
-If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, JLCPCB is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
+If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, [JLCPCB](https://jlcpcb.com) is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
+
+[JLCPCB](https://jlcpcb.com)
 
 
-
-Please use the following link to register an account in JLCPCB
+Please use the following link to register an account in [JLCPCB](https://jlcpcb.com)
 
 https://jlcpcb.com/RNA
 
@@ -31,9 +32,9 @@ jlcpcb.com/RNA
 
 PCBA Services
 
-JLCPCB have 350k+ Components In-stock. You don’t have to worry about parts sourcing, this helps you to save time and hassle, also keeps your costs down.
+[JLCPCB](https://jlcpcb.com) have 350k+ Components In-stock. You don’t have to worry about parts sourcing, this helps you to save time and hassle, also keeps your costs down.
 
-Moreover, you can pre-order parts and hold the inventory at JLCPCB, giving you peace-of-mind that you won't run into any last minute part shortages. jlcpcb.com/RNA
+Moreover, you can pre-order parts and hold the inventory at [JLCPCB](https://jlcpcb.com), giving you peace-of-mind that you won't run into any last minute part shortages. jlcpcb.com/RNA
 
 
 
@@ -41,9 +42,9 @@ Moreover, you can pre-order parts and hold the inventory at JLCPCB, giving you p
 
 -------------------
 
-SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes JLCPCB better companion among other manufactures try out JLCPCB 3D Printing servies
+SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes JLCPCB better companion among other manufactures try out [JLCPCB](https://jlcpcb.com) 3D Printing servies
 
-JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
+[JLCPCB](https://jlcpcb.com) 3D Printing starts at $1 &Get $54 Coupons for new users
 
 
 This Weather Station Uses Arduino ,Python & Nodemcu Along With Different Analog Value Sensor & Digital Value Sensors. Since Nodemcu Have Only One A0 Pin & We Need Values From Different Analog Sensors Like :-
